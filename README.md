@@ -81,8 +81,8 @@ This project is built using the following tools and libraries:
    git clone https://github.com/yourusername/vehicle-co2-prediction.git
    cd vehicle-co2-prediction
    
-## 🤝 Let's Connect
+## 🤝 Let's Connect 
 
 Want to chat machine learning, CO₂ emissions, or data viz?
-- [LinkedIn]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/pushkar-arora-0b3599356/))
+- [LinkedIn](https://www.linkedin.com/in/pushkar-arora-0b3599356/)
 - [Kaggle](https://www.kaggle.com/pushkararora)
