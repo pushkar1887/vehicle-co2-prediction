@@ -85,4 +85,4 @@ This project is built using the following tools and libraries:
 
 Want to chat machine learning, CO₂ emissions, or data viz?
 - [LinkedIn](https://www.linkedin.com/in/pushkar-arora-0b3599356/)
-- [Kaggle](https://www.kaggle.com/pushkararora)
+- [Kaggle]([https://www.kaggle.com/pushkararora](https://www.kaggle.com/code/pushkararora/multi-reg))
